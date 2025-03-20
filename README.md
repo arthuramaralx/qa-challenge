@@ -1,5 +1,5 @@
 # voidr-challenge
-Desafio técnico para a posição de SDTE na voidr
+Desafio técnico para a posição de SDET na voidr
 
 Como Executar:
 
