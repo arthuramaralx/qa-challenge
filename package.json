@@ -1,0 +1,16 @@
+{
+  "name": "voidr-challenge",
+  "version": "1.0.0",
+  "description": "Desafio técnico para a posição de SDTE na voidr",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.10"
+  }
+}
