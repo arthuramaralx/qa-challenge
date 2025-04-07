@@ -1,5 +1,4 @@
-# voidr-challenge
-Desafio técnico para a posição de SDET na voidr
+Desafio QA
 
 Como Executar:
 
